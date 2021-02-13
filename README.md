@@ -2,7 +2,7 @@
 
 ---
 
-What I have learned while making this project:
+I had finished the course "Your second SwiftUI iOS App" on Raywenderlich.com. What I have learned while making this project:
 
 - [x] List View Fundamentals
 
