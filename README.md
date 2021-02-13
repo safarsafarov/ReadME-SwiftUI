@@ -4,8 +4,8 @@
 
 What I have learned while making this project:
 
-[x] List View Fundamentals
+- [x] List View Fundamentals
 
-[x] Data Flow
+- [x] Data Flow
 
-[x] Managing Rows.
+- [x] Managing Rows.
